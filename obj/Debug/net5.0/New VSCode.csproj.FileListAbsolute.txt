@@ -1,0 +1,16 @@
+C:\Users\ebeth\Desktop\New VSCode\bin\Debug\net5.0\New VSCode.exe
+C:\Users\ebeth\Desktop\New VSCode\bin\Debug\net5.0\New VSCode.deps.json
+C:\Users\ebeth\Desktop\New VSCode\bin\Debug\net5.0\New VSCode.runtimeconfig.json
+C:\Users\ebeth\Desktop\New VSCode\bin\Debug\net5.0\New VSCode.runtimeconfig.dev.json
+C:\Users\ebeth\Desktop\New VSCode\bin\Debug\net5.0\New VSCode.dll
+C:\Users\ebeth\Desktop\New VSCode\bin\Debug\net5.0\ref\New VSCode.dll
+C:\Users\ebeth\Desktop\New VSCode\bin\Debug\net5.0\New VSCode.pdb
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\New VSCode.csprojAssemblyReference.cache
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\New VSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\New VSCode.AssemblyInfoInputs.cache
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\New VSCode.AssemblyInfo.cs
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\New VSCode.csproj.CoreCompileInputs.cache
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\New VSCode.dll
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\ref\New VSCode.dll
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\New VSCode.pdb
+C:\Users\ebeth\Desktop\New VSCode\obj\Debug\net5.0\New VSCode.genruntimeconfig.cache
